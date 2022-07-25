@@ -23,7 +23,26 @@
 > State inside the component, props pass into the component and handles outside the component and must update oustside the component, and state handles inside that component.
 
 3. **When do we re-render our application?**
-> When change the state inside the app
+> When change the state inside the app.
 
 4. **What are some examples of things that we could store in state?**
-> user input.(counter)
+> user input, checkbox something that needs to be able to updated by the user.
+
+***
+***
+### Reading
+- [React lifecycle](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)
+
+### Bookmark and Review
+- [React Docs - State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html).
+
+- [React Docs - handling events](https://reactjs.org/docs/handling-events.html).
+
+- [React Tutorial through ‘Developer Tools’](https://reactjs.org/tutorial/tutorial.html).
+
+- [React Bootstrap Documentation](https://react-bootstrap.github.io/).
+- [Boootstrap Cheatsheet](https://react-bootstrap.github.io/).
+
+- [Bootstrap Shuffle - a class “sandbox”](https://bootstrapshuffle.com/classes).
+
+- [Netlify](https://www.netlify.com/).
